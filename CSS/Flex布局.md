@@ -1,0 +1,1 @@
+####关于flex布局可以参考[这篇文章](https://www.w3cplus.com/css3/css-secrets/sticky-footers.html "这篇文章")和[阮一峰老师的博客](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html "阮一峰老师的flex教学")
