@@ -1,5 +1,6 @@
 ###常用git命令
 
+![](http://www.ruanyifeng.com/blogimg/asset/2015/bg2015120901.png)
 ####专用名词译名
 	
 - Workspace : 工作区
